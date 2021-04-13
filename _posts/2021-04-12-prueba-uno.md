@@ -6,7 +6,7 @@ These are the things I learned last week.
 I wanted to try a more visual way of documenting the learning content so I tried canva.
 /img/ideas_and_execution.jpg
 
-<img src="https://github.com/3r3n-n/3r3n-n.github.io/blob/main/img/ideas_and_execution.jpg" width="500" height="357">
+<img src="/img/ideas_and_execution.jpg" width="500" height="357">
 
 # H1
 ## H2
