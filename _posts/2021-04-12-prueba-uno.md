@@ -13,7 +13,7 @@ The down side is that it took me way longer than I expected (I did 1 info per te
 <img src="/img/how2talk2anyone.jpg" width="1000" height="647">
 <img src="/img/howprogressreallyhappens.jpg" width="800" height="2000">
 <img src="/img/lifelessonsfromprof.jpg" width="800" height="2000">
-<img src="/img/makingbadassdevelopers.jpg" width="800" height="2000">
+<img src="/img/makingbadassdevelopers.jpg" width="800" height="1368">
 <img src="/img/xworkflow.jpg" width="357" height="576">
 
 # H1
