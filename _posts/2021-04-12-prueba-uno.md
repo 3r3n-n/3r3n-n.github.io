@@ -5,9 +5,7 @@ title: "Encora Academy Week #1"
 These are the things I learned last week. 
 I wanted to try a more visual way of documenting the learning content so I tried canva.
 /img/ideas_and_execution.jpg
-[I'm an inline-style link](https://www.google.com)
-
-<img src="https://github.com/3r3n-n/3r3n-n.github.io/blob/main/img/ideas_and_execution.jpg" alt="">
+[I'm an inline-style link](https://github.com/3r3n-n/3r3n-n.github.io/blob/main/img/ideas_and_execution.jpg)
 
 # H1
 ## H2
