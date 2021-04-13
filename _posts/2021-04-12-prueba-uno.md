@@ -3,8 +3,8 @@ layout: post
 title: "Encora Academy Week #1"
 ---
 These are the things I learned last week. 
-I wanted to try a more visual way of documenting the learning content so I tried canva.
-/img/ideas_and_execution.jpg
+I wanted to try a more visual way of documenting the learning content so I tried [Canva](https://www.canva.com).
+The down side is that it took me way longer than I expected (I did 1 info per text/video, maybe that was the not-so-good-idea) but it looks nice, I think and I already did it. 
 
 <img src="/img/ideas_and_execution.jpg" width="500" height="357">
 
