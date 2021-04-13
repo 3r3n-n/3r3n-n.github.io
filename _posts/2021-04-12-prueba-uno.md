@@ -7,7 +7,7 @@ I wanted to try a more visual way of documenting the learning content so I tried
 /img/ideas_and_execution.jpg
 [I'm an inline-style link](https://www.google.com)
 
-![alt text](https://github.com/3r3n-n/3r3n-n.github.io/blob/main/img/ideas_and_execution.jpg "Logo Title Text 1")
+<img src="https://github.com/3r3n-n/3r3n-n.github.io/blob/main/img/ideas_and_execution.jpg" alt="">
 
 # H1
 ## H2
