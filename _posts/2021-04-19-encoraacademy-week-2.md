@@ -1,4 +1,7 @@
-My second week at Encora Academy
+---
+layout: post
+title: "Encora Academy Week #2"
+---
 
 This week we learned a lot of things with regards to software development tools. I have this mental tendency to divide this topic in two main sub groups: the 'technical' and the 'psychological'. However, I don't think this mental shortcut is good because it makes me see them as two independent components. 
 
