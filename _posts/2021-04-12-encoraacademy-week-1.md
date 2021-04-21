@@ -21,7 +21,7 @@ I would spend an hour doing this, although I don’t know if it is too little ti
 
 Something I recently noticed that relates to this, is that I ask very lame questions when I am getting to know someone, the typical ‘what do you do?’, ‘what did you study?’, ‘what is your thesis about?’. What is even more embarrasing is, I am also not very excited when it is other people who ask me these same questions. This probably relates to my autopilot problem I think, I often don’t pay enough attention to my interpersonal interactions because my mind is just busy worrying and having anxiety about something. So if I don’t pay attention, I don’t have personalized and specific inquiries to make and I resort to these boring questions. I feel so embarrassed now LOL. I must work on this. 
 
-<img src="/img/the_linux_shell.jpg" width="864" height="1152">
+<img src="/img/thelinuxshell.jpg" width="864" height="1152">
 <img src="/img/howprogressreallyhappens.jpg" width="800" height="2000">
 <img src="/img/lifelessonsfromprof.jpg" width="800" height="2000">
 <img src="/img/makingbadassdevelopers.jpg" width="800" height="1368">
