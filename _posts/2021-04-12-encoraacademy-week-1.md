@@ -11,7 +11,7 @@ The down side is that it took me way longer than I expected (I did 1 info per te
 <img src="/img/creativethinkinghacks.jpg" width="800" height="2000">
 <img src="/img/how2masteranything_peak.jpg" width="800" height="2000">
 
-Considering this with regards to my own life, I think about my goal of mastering the Google Earth Engine API. 
+Considering this with regards to my own life, I think about my goal of mastering the [Google Earth Engine API](https://developers.google.com/earth-engine/api_docs). 
 
 For this, I think that a practical approach that incorporates purposeful practice would be learning one (preferably two) Earth Engine function or method every day.
 This would involve at the end either writing a code chunk with an specific purpose; or updating an existing piece of code that I had written before with the respective new function/method (it this leads to an improvement in the code). 
