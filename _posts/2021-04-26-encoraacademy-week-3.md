@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Encora Academy Week #3 (sorry if this one is too long :s )"
+---
+
 This week has been somewhat tough but it has been meaningful in the sense that I am starting to concretely see how we should be incorporating the ideas we learn in 'theory' within our coding and teamwork practice. 
 
 I found a lot of opportune advice in Eric Lladós' [talk about giving talks](https://www.youtube.com/watch?v=l0s6ZLkV-U0). He says that we usually focus on what we are doing and saying, trying not to make mistakes, but presentations go better when we focus on the audience, what might they be thinking or feeling. I feel that this is quite my case:  I have felt quite nervous about making mistakes during my two lightning talks but forget about my audience's response. I should be more mindful about it. I also have found difficulty in establishing the scope and limits of the content of my talk, trying to fit too many not-so-simple concepts in a few minutes. This talk recommends using deductive approach (first general idea, then details) for long presentations (>20 mins) and  inductive approach (details first so people can get the general idea in the end) for short presentations. I really like the point of making the audience achieve flux state, this is when your brain thinks with an appropriate level of effort (not trying to understand complex algebra, but also not the vowels), this relates to the PEAK method that involves keeping at the edge of our abilities. 
