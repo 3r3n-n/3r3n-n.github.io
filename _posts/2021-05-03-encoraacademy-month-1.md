@@ -42,4 +42,4 @@ So, given all of the above, some particular goals that I would like to achieve (
 - Revisiting my notes from previous weeks to see what has changed.
 - Talking to more new people and mindfully making time for it in my schedule.
 
-<img src="/img/idontwant2bealoser.jpg" width="375" height="339">
+<img src="/img/idontwant2bealoser.jpg" width="563" height="509">
