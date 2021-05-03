@@ -36,6 +36,6 @@ The author then goes on to write about illusions of knowledge. They have already
 
 Here, I think that it is relevant to mention how cramming is significantly involved in illusions of knowledge, at least at school. We study "hard" a couple of days before the text, learn enough things to pass it and repeat until the semester is over and we passed the class but can't really remember much of it. But we passed so that's what counts and it makes us believe that that's enough and that the knowledge must be in our heads, somewhere. 
 
-<img src="/img/paselamateriaperoqueaprendi.jpg" width="360" height="264">
+<img src="/img/paselamateriaperoqueaprendi.jpg" width="360" height="264" align="center">
 
 The book can seem repetitive at times but that is also good, since the author is taking advantage of some of the techniques that are described: by presenting them in different contexts, it is a way of applying some sort of varied practice so the main advices and techniques that are proposed are quite clear at the end.
