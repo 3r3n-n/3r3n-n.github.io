@@ -2,7 +2,7 @@
 layout: post
 title: "TMIL (This Month I Learned...) #1"
 ---
-A month has already passed since we began this adventure. I feel like it has been way longer but at the same time, I feel like it has passed so quickly.
+A month has already passed since we began this adventure. I feel like it has been way longer but at the same time, I feel like it has passed so quickly. This space would not be possible without the Academy Staff and my two Mentors' support, so thank you so much for your time and dedication.
 
 The first month of Encora Academy is called the 'reset phase'. If I were to quickly define it, I would say that it is about un-learning habits that don't serve us  (as well as start adopting the ones that are actually helpful) if our goal is becoming software developers. 
 
