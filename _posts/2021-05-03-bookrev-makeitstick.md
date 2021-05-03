@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Book review: Make It Stick"
+---
 As part of the reset phase of Encora Academy, we read the book ***Make it stick: The Science of Successful Learning***, published in 2014 and written by Peter C. Brown. This book provides an evidence-based analysis and approach to the learning (and teaching) process.
 
 The first part is also like a reset chapter, because it challenges popular preconceptions about education and learning that are actually just myths. The author provides evidence to make the case for this. The most significative myth that I encountered in this chapter was the belief that repetitive exposure builds memory. Repetition by itself does not guarantee any retention. One can re-read, re-watch or re-listen certain content a ton of times; however, this is a very passive process and we need our brains to be more participative, to say the least, for the knowledge to be actually ingrained in them. In a bit, we will see more concretely how we can make that happen.
