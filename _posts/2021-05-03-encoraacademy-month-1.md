@@ -18,6 +18,8 @@ Something that I think is a good complement of this skill-awareness exercise is 
 
 A key aspect of being a novice is asking for help (and knowing how and when to do it), which has been a significative challenge for me during this month. I wrote more about this in a previous post. This past week I made the effort to just ask my peers and my mentors and I feel that it is making a difference, it even made me less anxious and I could work more efficiently (I'm still not as efficient as I think I should but I'm getting closer). As Allison Hill says, "there is no trophy for doing it the hard way". I must keep working on this for it to become a habit.
 
+<img src="/img/trying2learnanewskill.jpg" width="750" height="771">
+
 This was not only an individual process but also a collective one. As a team, we the academies struggled with teamwork on the second week so we did not achieve our weekly goal. This was like a wake-up call for us so we started being more expressive to each other about our doubts, needs, etc. So my improvement in communication and asking-for-help has also happened within this context. Now I feel like we have each other's back and that will be important for the following months. 
 
 The pair programming sessions have also been quite relevant in my journey so far. I have found them to be tremendously helpful to solve doubts and to facilitate asking very specific questions. Looking at my peers' code has helped me to see different approaches to a solution and it has given me a broader perspective of how I can write better code. 
