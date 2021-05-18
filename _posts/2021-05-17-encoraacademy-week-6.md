@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Encora Academy Week #6"
+---
+
 This was the first week of the second phase of Encora Academy: Building something from scratch. 
 
 We all were assigned on a team project. Since we got to know our projects on the same day that we would meet our clients for the first time, we started chatting within our team as soon as we knew about our project. 
