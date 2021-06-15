@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Encora Academy Week #10"
+---
+
+This was the first week of the third phase of the Academy: contributing to open source. During this phase, our main task is to contribute to at least a couple of open source projects.
+
+I felt quite excited about this since it is something that has been in my mind for a while but I never was proactive enough to do the research and overcome my cluelessness so now it is a great opportunity. 
+
+As part of this phase, we also need to choose a primary and secondary stack. This is the decision that I felt most overwhelming during this week. I was scared about not being aware of the implications of this decision that I needed to make soon. My mentors were quite helpful in explaining some aspects of the industry and how it is not uncommon to change stack over the course of your career. I also took some space to reflect on my current priorities and how my stack choice for this phase would influence them. 
+
+At the end, I chose JavaScript as my primary stack and Python as my secondary stack. I had already been searching for viable projects as part of the background information that I considered for my decision. I noticed that all of the 'green flags' that we should look for in projects were not that common, at least not all of them in the same project, so I would have to compromise some of them for the others. Despite that, the defining factor at least for me was if they had beginner-friendly issues available. 
+
+Due to this, I decided to contact the maintainers of a couple of sort-of-small (or at least not-so-crowded) JavaScript projects through the comments in open good-first-issues labeled issues. Maybe I am understating the issues search so I will just emphasize that at least in my perception, it was the hardest part of the week, or at least the most emotionally-consuming part. I was also kind of scared to send the first messages, it felt a bit like job searching. 
+
+I got a quick response in one of the projects. The respective issue is about converting some JavaScript (JS) functions to TypeScript (TS). I have zero background in TS so I referred to the documentation and decided that it was a good time to start filling in the gaps in my JS knowledge, since it is a requirement for understanding and writing TS. I spent the last part of the week going back and back in JS basic concepts (until I reached the 'this is how the internet works' in the Mozilla Developers website). 
+
+I also got a positive response for an issue in a big python library that is quite popular in data science and scientific computing in general: matplotlib. This was near the end of the week and I was feeling quite exhausted so I decided to start working on this issue on Monday morning. Unfortunately, during the weekend someone else worked on the issue and was already so many steps ahead of me. I don't regret not having worked on it during the weekend because it was the first weekend that I truly could have some rest and I really needed it... however, I learned that at the moment of requesting an issue, I have to manage the timing so I am able to tackle it quickly before someone else takes it. Something else that I learned is that the urgency to secure an issue is not more important than being aware of all the communication channels that exist in a project. In this case, I had not read the full contribution page yet so I did not know about the gitter page where there is a special group for newbies who want to begin their journey. 
+
+I have another Python project in mind that is not so crowded and I have been using the JS-equivalent library for a while (I will be writing about it soon), so I will focus on that project as part of my secondary stack while I find something else that I could collaborate with in Matplotlib and see what guidance I can get in their gitter group.
