@@ -57,7 +57,7 @@ If we wanted to provide the whole configuration of our global locale, for Gujara
     
   </summary>
   
-```
+```jsx
     calendar: {
         sameDay: '[આજ] LT',
         nextDay: '[કાલે] LT',
