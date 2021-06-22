@@ -31,7 +31,8 @@ If we wanted to provide the whole configuration of our global locale, for Gujara
 <details>
   <summary>
     
-```moment.defineLocale('gu', {
+```
+  moment.defineLocale('gu', {
     months: 'જાન્યુઆરી_ફેબ્રુઆરી_માર્ચ_એપ્રિલ_મે_જૂન_જુલાઈ_ઑગસ્ટ_સપ્ટેમ્બર_ઑક્ટ્બર_નવેમ્બર_ડિસેમ્બર'.split(
         '_'<br>
     ),<br>
@@ -52,11 +53,11 @@ If we wanted to provide the whole configuration of our global locale, for Gujara
         LLL: 'D MMMM YYYY, A h:mm વાગ્યે',
         LLLL: 'dddd, D MMMM YYYY, A h:mm વાગ્યે',
       },
-    ```
+```
     
   </summary>
   
-  ```
+```
     calendar: {
         sameDay: '[આજ] LT',
         nextDay: '[કાલે] LT',
@@ -126,7 +127,7 @@ If we wanted to provide the whole configuration of our global locale, for Gujara
         doy: 6, // The week that contains Jan 6th is the first week of the year.
     },
 });
-    ```
+```
   
 </details>
 
