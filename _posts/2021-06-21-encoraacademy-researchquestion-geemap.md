@@ -113,6 +113,17 @@ df = pd.DataFrame(data)
 
 And this is actually what `ee_to_pandas` function returns so we are happy now:
 
-[Untitled](https://www.notion.so/db9fd7b629604224b02d79e7d5405acd)
+index   |   ADM0_CODE  |	ADM0_NAME   |	DISP_AREA   |	EXP0_YEAR   |	STATUS  |	STR0_YEAR   |	Shape_Area  |	Shape_Leng  |
+|:------|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|0	|2647	|Montenegro     |NO	|3000	|Member State	|2006	|1.515636	|9.453918|
+|1	|2648	|Serbia 	|NO	|3000	|Member State	|2006	|9.934731	|24.909326|
+|2	|74	    |South Sudan	|NO	|3000	|Member State	|2011	|51.599166	|46.905431|
+|3	|6	    |Sudan	|NO	|3000	|Member State	|2011	|155.888802	|81.910242|
+|4	|147296	|Taiwan	|NO	|3000	|CN Province	|1000	|3.199821	|13.751702|
+|5	|56	    |Cocos (Keeling) Islands	|NO	|3000	|AU Territory	|1000	|0.001310	|0.888417|
+|6	|54	    |Christmas Island	|NO	|3000	|AU Territory	|1000	|0.011214	|0.655334|
+|7	|16	    |Ashmore and Cartier Islands	|NO	|3000	|AU Territory	|1000	|0.000057	|0.066797|
+|8	|82	    |Faroe Islands	|NO	|3000	|DK Territory	|1000	|0.240299	|15.952426|
+|9	|88	    |French Southern and Antarctic Territories	|NO	|3000	|FR Territory	|1000	|0.948364	|42.320007|
 
 As you can see, in order to answer our original question it was necessary not only to dive into the geemap codebase but also to check the GEE API documentation (since GEE is not OS) to complete our understanding of the process.
