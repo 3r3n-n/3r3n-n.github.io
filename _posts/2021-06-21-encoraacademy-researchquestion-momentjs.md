@@ -30,9 +30,10 @@ If we wanted to provide the whole configuration of our global locale, for Gujara
 
 <details>
   <summary>
-    <code>
-moment.defineLocale('gu', {<br>
-    months: 'જાન્યુઆરી_ફેબ્રુઆરી_માર્ચ_એપ્રિલ_મે_જૂન_જુલાઈ_ઑગસ્ટ_સપ્ટેમ્બર_ઑક્ટ્બર_નવેમ્બર_ડિસેમ્બર'.split(<br>
+    
+    ```jsx
+moment.defineLocale('gu', {
+    months: 'જાન્યુઆરી_ફેબ્રુઆરી_માર્ચ_એપ્રિલ_મે_જૂન_જુલાઈ_ઑગસ્ટ_સપ્ટેમ્બર_ઑક્ટ્બર_નવેમ્બર_ડિસેમ્બર'.split(
         '_'<br>
     ),<br>
     monthsShort: 'જાન્યુ._ફેબ્રુ._માર્ચ_એપ્રિ._મે_જૂન_જુલા._ઑગ._સપ્ટે._ઑક્ટ્._નવે._ડિસે.'.split(
@@ -51,9 +52,11 @@ moment.defineLocale('gu', {<br>
         LL: 'D MMMM YYYY',
         LLL: 'D MMMM YYYY, A h:mm વાગ્યે',
         LLLL: 'dddd, D MMMM YYYY, A h:mm વાગ્યે',
-      },</code>
+      },
+    ```
+    
   </summary>
-  <code>
+  ```jsx
     calendar: {
         sameDay: '[આજ] LT',
         nextDay: '[કાલે] LT',
@@ -123,7 +126,8 @@ moment.defineLocale('gu', {<br>
         doy: 6, // The week that contains Jan 6th is the first week of the year.
     },
 });
-    </code>
+    ```
+  
 </details>
 
 As we see, the locale configuration contains many ways to name the different time units in the specified language and region, as well as abbreviations. Then, momentJS would use its `defineLocale` internal function to create a new locale with this configuration. 
