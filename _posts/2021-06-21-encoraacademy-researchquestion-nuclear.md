@@ -18,7 +18,7 @@ If we go to the source code, we will find that this button is located in the `Pl
 
 Here is a small diagram in case the previous paragraph was too cluttered:
 
-<img src="/img/nuclear_props.png" width="575" height=“641">
+<img src="/img/nuclear_props.png" width="575" height="641">
 
 So `handleImportFromFile` is defined in this way:
 
