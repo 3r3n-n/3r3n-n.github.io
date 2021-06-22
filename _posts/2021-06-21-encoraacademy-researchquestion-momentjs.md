@@ -16,7 +16,7 @@ With *momentJS*, we can specify the global locale of our project:
 moment.locale(String, Object);
 ```
 
-The `moment.locale` function has a different name inside *momentJS*, this is `getSetGlobalLocale`. The `String` input is the locale name (for example, for Spanish we would write ___). The `Object` input contains the configuration of our locale. It is normal if we don't know the whole configuration of our locale so it is fine if we just provide its name, *momentJS* will look for it in its *lib* files through the `getLocale` internal function. 
+The `moment.locale` function has a different name inside *momentJS*, this is `getSetGlobalLocale`. The `String` input is the locale name (for example, for Spanish we would write `es-mx`). The `Object` input contains the configuration of our locale. It is normal if we don't know the whole configuration of our locale so it is fine if we just provide its name, *momentJS* will look for it in its *lib* files through the `getLocale` internal function. 
 
 The `getLocale` function makes use of two other internal library functions:
 
@@ -28,7 +28,9 @@ So `getLocale` applies loadLocale if the input name is just a string or `chooseL
 
 If we wanted to provide the whole configuration of our global locale, for Gujarati for example, we would write this:
 
-```jsx
+<details>
+  <summary>
+    ```jsx
 moment.defineLocale('gu', {
     months: 'જાન્યુઆરી_ફેબ્રુઆરી_માર્ચ_એપ્રિલ_મે_જૂન_જુલાઈ_ઑગસ્ટ_સપ્ટેમ્બર_ઑક્ટ્બર_નવેમ્બર_ડિસેમ્બર'.split(
         '_'
@@ -49,7 +51,9 @@ moment.defineLocale('gu', {
         LL: 'D MMMM YYYY',
         LLL: 'D MMMM YYYY, A h:mm વાગ્યે',
         LLLL: 'dddd, D MMMM YYYY, A h:mm વાગ્યે',
-    },
+    },```
+  </summary>
+  ```jsx
     calendar: {
         sameDay: '[આજ] LT',
         nextDay: '[કાલે] LT',
@@ -120,6 +124,7 @@ moment.defineLocale('gu', {
     },
 });
 ```
+</details>
 
 As we see, the locale configuration contains many ways to name the different time units in the specified language and region, as well as abbreviations. Then, momentJS would use its `defineLocale` internal function to create a new locale with this configuration. 
 
