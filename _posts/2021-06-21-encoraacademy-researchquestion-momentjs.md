@@ -31,7 +31,7 @@ If we wanted to provide the whole configuration of our global locale, for Gujara
 <details>
   <summary>
     
-    ```jsx
+    ```
 moment.defineLocale('gu', {
     months: 'જાન્યુઆરી_ફેબ્રુઆરી_માર્ચ_એપ્રિલ_મે_જૂન_જુલાઈ_ઑગસ્ટ_સપ્ટેમ્બર_ઑક્ટ્બર_નવેમ્બર_ડિસેમ્બર'.split(
         '_'<br>
@@ -56,7 +56,8 @@ moment.defineLocale('gu', {
     ```
     
   </summary>
-  ```jsx
+  
+  ```
     calendar: {
         sameDay: '[આજ] LT',
         nextDay: '[કાલે] LT',
