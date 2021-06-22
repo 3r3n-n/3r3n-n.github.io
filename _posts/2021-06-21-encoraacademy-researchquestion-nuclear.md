@@ -8,7 +8,7 @@ Nuclear allows you to import a playlist from a JSON file.
 
 We can get to the playlists view from the main menu on the left panel:
 
-<img src="/img/nuclear_screen.jpg" width="514" height="382">
+<img src="/img/nuclear_screen.png" width="514" height="382">
 
 Here we see an option at the header: *import from file (JSON)*. If we click it, it shows us a file browser dialog to select our playlist JSON file.
 
@@ -18,7 +18,7 @@ If we go to the source code, we will find that this button is located in the `Pl
 
 Here is a small diagram in case the previous paragraph was too cluttered:
 
-<img src="/img/nuclear_props.jpg" width="575" height=“641">
+<img src="/img/nuclear_props.png" width="575" height=“641">
 
 So `handleImportFromFile` is defined in this way:
 
