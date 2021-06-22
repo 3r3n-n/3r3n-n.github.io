@@ -18,7 +18,7 @@ Even though GEE is focused on raster (image) files, it also handles vector files
 
 Let's remember that geospatial data is just data with a spatial component. This can help us understand how geo-vector data files are structured. They are basically just tables (data) with a geometry-dedicated column (geospatial component: geometries contain the coordinates of the related points). 
 
-IMAGEFILE
+<img src="/img/geovectordata.png" width="600" height="552">
 
 The way that Earth Engine handles vector data is in objects called `Feature`, one feature would be equivalent to a table row. Multiple features that have the same properties can be handled in a `FeatureCollection`, we can think of it as a whole table (each property would be a column, the geometry would be one of them).
 
@@ -47,7 +47,7 @@ We are not getting any actual data, just metadata. This is because this is store
 
 This function is stored in the [common.py](http://common.py) file in the geemap project repository. This file contains a ton of utilities, all the data-conversion-related functions live here. 
 
-The ee_to_pandas function takes an Earth Engine object as input. The first line of this function imports the pandas library with the pd abbreviation. After that, it validates the input as a FeatureCollection with isinstance .
+The `ee_to_pandas()` function takes an Earth Engine object as input. The first line of this function imports the pandas library with the pd abbreviation. After that, it validates the input as a FeatureCollection with isinstance .
 
 Then comes the fun part: 
 
