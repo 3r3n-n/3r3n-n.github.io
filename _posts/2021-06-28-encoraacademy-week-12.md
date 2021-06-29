@@ -9,9 +9,9 @@ After having finished the research exercises from the first two weeks, I was rea
 
 # geemap
 
-As I was already behind in my contributions, I decided to prioritize the one that I felt that I could finish sooner so this was the [geemap](https://github.com/giswqs/geemap) project.
+As I was already behind in my contributions, I decided to prioritize the one that I felt that I could finish sooner so this was the [geemap](https://github.com/giswqs/geemap) project. The [issue](https://github.com/giswqs/geemap/issues/339) that I was addressing is a big one as it is a list of features so I would be implementing one of them. 
 
-My contribution for that project during this week was about implementing the functionality for the group bar chart, this would be the pythonic equivalent to the respective one in the Google Earth Engine API so users would be able to use it in their jupyter notebooks.
+My [contribution](https://github.com/giswqs/geemap/pull/539) for that project during this week was about implementing the functionality for the group bar chart, this would be the pythonic equivalent to the respective one in the Google Earth Engine API so users would be able to use it in their jupyter notebooks.
 
 The function is like 90 lines long so I will just show the beginning to give an idea of the general functionality and parameters:
 
@@ -61,7 +61,7 @@ I submitted my PR in the evening and the following morning I woke up to the grea
 
 # nuclear
 
-So that day I turned to the other project from my primary stack (JavaScript): *nuclear*, a music streamer that pulls music from free sources. The frontend of this project is written in react and has some TypeScript files. This contribution was about implementing playlist data export to a JSON local file. I was happy to be able to write a functional implementation on my own during one day. 
+So that day I turned to the other project from my primary stack (JavaScript): *nuclear*, a music streamer that pulls music from free sources. The frontend of this project is written in react and has some TypeScript files. This [contribution](https://github.com/nukeop/nuclear/pull/981) was about implementing [playlist data export to a JSON local file](https://github.com/nukeop/nuclear/issues/971). I was happy to be able to write a functional implementation on my own during one day. 
 
 For this, I added the button layout in the `index.tsx` file of the `PlaylistView` component. Then I wrote the `exportPlaylist` function in the `playlist.ts` file in the actions folder and then modified the `PlaylistViewContainer` files so this function would be passed as props to the `PlaylistView` component. Since the respective button and success and error toasts need their labels, I added the `'export-button'`, `'export-fail-title'`, `'export-success-title'`, `'error-save-file'` and `'playlist-exported'` labels (in English) to every translation file in the locales folder. 
 
