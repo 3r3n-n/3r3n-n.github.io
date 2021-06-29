@@ -9,7 +9,7 @@ After having finished the research exercises from the first two weeks, I was rea
 
 # geemap
 
-As I was already behind in my contributions, I decided to prioritize the one that I felt that I could finish sooner so this was the [geemap](https://github.com/giswqs/geemap) project. The [issue](https://github.com/giswqs/geemap/issues/339) that I was addressing is a big one as it is a list of features so I would be implementing one of them. 
+As I was already behind in my contributions, I decided to prioritize the one that I felt that I could finish sooner so this was the [geemap](https://github.com/giswqs/geemap) project. The [issue](https://github.com/giswqs/geemap/issues/339) that I was addressing is a big one as it is a list of features (in the end, a list of functions so a module) so I would be implementing one of them. 
 
 My [contribution](https://github.com/giswqs/geemap/pull/539) for that project during this week was about implementing the functionality for the group bar chart, this would be the pythonic equivalent to the respective one in the Google Earth Engine API so users would be able to use it in their jupyter notebooks.
 
