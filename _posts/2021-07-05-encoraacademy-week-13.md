@@ -33,7 +33,7 @@ Today my PR for this feature was merged after I added a small example notebook t
 
 # nuclear
 
-I kept contributing to the same JavaScript project as last week. This time I was focusing on an improvement that arised from a user's request to show the current track lyrics inside the mini-player. 
+I kept contributing to the same JavaScript project as last week. This time I was focusing on an improvement that arised from a [user's request](https://github.com/nukeop/nuclear/issues/859) to show the current track lyrics inside the mini-player. 
 
 My first approach did not work so I tried a second time and I was able to do it. I realized that I still need to learn a lot regarding the basics of CSS so in this case I studied flex-box, that's what I needed most. 
 
@@ -43,4 +43,4 @@ I had a bit of trouble with the tests again. This time I did not need to write a
 
 Testing is still a new world for me but I am glad for what I have recently learned about it because before that it was almost a complete black box.
 
-I submitted the PR for this improvement a couple of hours ago so I hope that soon I know if I need to do something else or if it is ready to be merged.
+I [created the PR](https://github.com/nukeop/nuclear/pull/1006) for this improvement a couple of hours ago so I hope that soon I know if I need to do something else or if it is ready to be merged.
