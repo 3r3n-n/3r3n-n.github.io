@@ -23,9 +23,9 @@ Whereas in EmberJS, you would write:
 
 ```jsx
 <ul>
-{{#each myArray as |item|}}
+{ { #each myArray as |item| } }
 <li>{{item}}</li>
-{{/each}}
+{ { /each } }
 </ul>
 ```
 
