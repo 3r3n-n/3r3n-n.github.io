@@ -21,7 +21,7 @@ I also started learning EmberJS, an open-sourced, free JavaScript front-end fram
 
 Whereas in EmberJS, you would write:
 
-```jsx
+```
 <ul>
 { { #each myArray as |item| } }
 <li>{{item}}</li>
