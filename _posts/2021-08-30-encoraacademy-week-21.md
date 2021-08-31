@@ -13,7 +13,11 @@ At the middle of the week I had a mock interview as part of getting ready for in
 
 I also started learning EmberJS, an open-sourced, free JavaScript front-end framework. It makes extensive use of handlebars, which are like a <code>{{, some contents, followed by a }}</code>. When the template is executed, these expressions are replaced with values from an input object. The project structure of files in this framework is quite different to, for example, React. I have been noticing the difference in syntax. For example, if you want to iterate through an array myArray of data with the same format in order to display it inside an HTML list item, in React you would do something like:
 
-![snippet_react](https://user-images.githubusercontent.com/82424931/131424024-130e1cb4-4bbb-4d9d-97ea-72d7831d3c6c.png)
+<code>
+<ul>
+	{myArray.map((item) => (<li>{item}</li>))}
+</ul>
+</code>
 
 Whereas in EmberJS, you would write:
 
