@@ -19,7 +19,9 @@ I also started learning EmberJS, an open-sourced, free JavaScript front-end fram
 
 Whereas in EmberJS, you would write:
 
-<img align="center" src="https://user-images.githubusercontent.com/82424931/131423978-50bf50fe-cbff-406f-8c9c-31f8d2685cc0.png">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82424931/131423978-50bf50fe-cbff-406f-8c9c-31f8d2685cc0.png">
+</p>
 
 I also tried to deploy a very small EmberJS page to Netlify but the redirects did not work, I still need to check what is happening.
 
