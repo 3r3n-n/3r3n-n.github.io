@@ -5,7 +5,7 @@ title: "Encora Academy Week #27"
 
 This week began quite similar to the end of the previous one: migrating styles to styled components. At this point, I think that it is quite evident that I really like this library.
 
-<img src="/img/stylelibrariesmeme.jpeg">
+<img src="/img/stylelibrariesmeme.jpeg" width="480" height="360">
 
 The first version of the flashcards app for practicing answering interview questions only included behavioral topics. Since there is not really a right or wrong answer to these type of questions, I just cared about showing a timer so users can be aware of it and adjust their answers length if necessary.
 
