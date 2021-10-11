@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Encora Academy Week #27”
+title: "Encora Academy Week #27"
 ---
 
 This week began quite similar to the end of the previous one: migrating styles to styled components. At this point, I think that it is quite evident that I really like this library.
