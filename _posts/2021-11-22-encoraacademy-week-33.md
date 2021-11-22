@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Encora Academy Week #33”
+title: "Encora Academy Week #33"
 ---
 
 This week was more about practical linux commands and docker.
